@@ -2,7 +2,7 @@
   "type": "minecraft:jigsaw",
   "biomes": "#zelda:has_structure/zelda_chest_v2",
   "step": "surface_structures",
-  "terrain_adaptation": "beard_box",
+  "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "zelda:zelda_chest_pool_v2",
   "size": 1,
